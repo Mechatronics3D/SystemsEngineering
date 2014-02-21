@@ -1,5 +1,5 @@
-SystemsEngineering
-==================
+Systems Engineering
+===================
 
 This is a wiki for Systems Engineering:
 
